@@ -9,15 +9,20 @@
 const int led = LED_BUILTIN;
 const int btn = D2;
 
-void setup() {
-  pinMode(led, OUTPUT);
-  pinMode(btn, INPUT_PULLUP);
+void setup()
+{
+	pinMode(led, OUTPUT);
+	pinMode(btn, INPUT_PULLUP);
 }
 
-void loop() {
-  if (digitalRead(btn) == LOW) {
-    digitalWrite(led, HIGH);
-  } else {
-    digitalWrite(led, LOW);
-  }
+void loop()
+{
+	if (digitalRead(btn) == LOW)
+	{
+		digitalWrite(led, HIGH);
+	}
+	else
+	{
+		digitalWrite(led, LOW);
+	}
 }

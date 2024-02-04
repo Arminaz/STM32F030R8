@@ -1,7 +1,7 @@
 /**
  * @file internal_btn.c
  * @brief Internal Button for STM32F030R8 EVAL Board.
- * * Find video sample here: https://youtube.com/shorts/X-lLQEASmyM 
+ * * Find video sample here: https://youtube.com/shorts/X-lLQEASmyM
  */
 
 #include <Arduino.h>
