@@ -1,16 +1,22 @@
 /**
  * @file builtin_blinker.c
- * @brief This is a simple Blinker that blinks the builtin LED for STM32F030R8 EVAL Board
+ * @brief Builtin Blinker for STM32F030R8 EVAL Board.
+ * Find video sample here: https://youtube.com/shorts/I4pPbQvWrv8 
  * 
  */
 #include <Arduino.h>
 
 const int ledPin = LED_BUILTIN;
 
-void setup() {
-  
+void setup()
+{
+	pinMode(ledPin, OUTPUT);
 }
 
-void loop() {
-  
+void loop()
+{
+	digitalWrite(ledPin, HIGH);
+	delay(1000);
+	digitalWrite(ledPin, LOW);
+	delay(1000);
 }
