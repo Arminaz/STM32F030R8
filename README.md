@@ -5,8 +5,9 @@ Welcome to the repository for the STM32F030R8 EVAL Board project! This project h
 ## Acknowledgements
 
 - STM32F030R8 microcontroller
+- Arduino Framework
 - Visual Studio Code
 - PlatformIO - https://platformio.org/install/ide?install=vscode 
 
 
-Thanks! 🚀
+Thanks!
