@@ -1,5 +1,5 @@
 /**
- * @file buzzer.c
+ * @file buzzer
  * @brief Buzzer for STM32F030R8 EVAL Board.
  * * Find video sample here: https://youtu.be/ghW0EezlxTU 
  */

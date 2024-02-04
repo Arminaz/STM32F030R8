@@ -1,5 +1,5 @@
 /**
- * @file switch_external_led.c
+ * @file switch_external_led
  * @brief Switch with External LED for STM32F030R8 EVAL Board.
  * * Find video sample here: https://youtu.be/LdNNNbFCoaU
  */

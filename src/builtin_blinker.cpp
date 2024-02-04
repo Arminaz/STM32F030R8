@@ -1,5 +1,5 @@
 /**
- * @file builtin_blinker.c
+ * @file builtin_blinker
  * @brief Builtin Blinker for STM32F030R8 EVAL Board.
  * Find video sample here: https://youtube.com/shorts/I4pPbQvWrv8 
  * 

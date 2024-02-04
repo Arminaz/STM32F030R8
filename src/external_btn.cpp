@@ -1,5 +1,5 @@
 /**
- * @file external_btn.c
+ * @file external_btn
  * @brief External Button for STM32F030R8 EVAL Board.
  * * Find video sample here: https://youtube.com/shorts/J1YUPy0i5zQ
  */

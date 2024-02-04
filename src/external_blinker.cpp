@@ -1,5 +1,5 @@
 /**
- * @file external_blinker.c
+ * @file external_blinker
  * @brief External Blinker for STM32F030R8 EVAL Board.
  * Find video sample here: https://youtube.com/shorts/WqoUpb1Ku5g 
  *
